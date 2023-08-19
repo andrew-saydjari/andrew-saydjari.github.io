@@ -6,7 +6,7 @@ theme = "zola-academic"
 title = "Andrew Saydjari"
 
 # The URL the site will be built for
-base_url = "/"
+base_url = "https://andrew-saydjari.github.io/"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
