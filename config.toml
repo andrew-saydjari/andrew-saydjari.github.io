@@ -75,7 +75,7 @@ interests = [
 # Your diplomas
 education = [
 {course = "PhD in Physics", institution = "Harvard", year = 2024},
-{course = "BSc/MSc in Chemistry", institution = "Yale", year = 2018},
+{course = "MSc/BSc in Chemistry", institution = "Yale", year = 2018},
 {course = "BSc in Math", institution = "Yale", year = 2018},
 ]
 
