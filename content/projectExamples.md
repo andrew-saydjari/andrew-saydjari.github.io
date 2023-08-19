@@ -33,7 +33,7 @@ I led the data reduction for the second and final release of the Dark Energy Cam
 </div>
 
 ### Diffuse Interstellar Band in Gaia DR3 RVS Spectra
-<video width="600" height="600" controls autoplay loop>
+<video width="600" height="600" controls autoplay loop muted>
     <source src="img/localBubble.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
@@ -44,7 +44,7 @@ I led the data reduction for the second and final release of the Dark Energy Cam
 </div>
 
 ### High Angular Resolution 3D Dust Mapping
-<video width="500" controls autoplay loop>
+<video width="500" controls autoplay loop muted>
     <source src="img/highlat_8192.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>

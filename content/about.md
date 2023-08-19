@@ -57,11 +57,11 @@ transparent = false
 [extra]
 +++
 <div style="font-size: 18px;">
-   <p>I am an ultimate year graduate student at Harvard working at the intersection of machine learning, astrostatistics, and the interstellar medium.</p>
+   <p>I am an ultimate year graduate student at Harvard working at the intersection of astrostatistics, data science, and the interstellar medium.</p>
 
    <p>I am passionate about scientific communication, open source software/data availability, and the replication crisis. I am also a Julia enthusiast. Please reach out to me for any questions related to my research and explore the site!</p>
 
-   <p>In previous lives, I have also been a chemist (synthesis and spectroscopy) and condensed matter physicist (InAs/HgCdTe superconductor-semiconductor fabrication and dilution refrigerator measurement) and have deeply loved each of these roles.</p>
+   <p>In previous lives, I have also been a chemist (spectroscopy, organometalic, polymers) and condensed matter physicist (InAs/HgCdTe superconductor-semiconductor fabrication and dilution refrigerator measurement) and have deeply loved each of these roles.</p>
 </div>
 
 
