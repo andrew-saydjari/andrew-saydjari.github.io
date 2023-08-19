@@ -43,7 +43,7 @@ menu_left = [
 
 # The links you want to put on the right of the navbar
 menu_right = [
-    { name = "Education", link = "education" },
+    { name = "Personal", link = "personal" },
     { name = "Gallery", link = "gallery" },
 ]
 
