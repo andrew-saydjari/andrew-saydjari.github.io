@@ -57,9 +57,11 @@ transparent = false
 [extra]
 +++
 <div style="font-size: 18px;">
-   <p>I am an ultimate year graduate student at Harvard working at the intersection of astrostatistics, data science, and the interstellar medium.</p>
+   <p>I am an ultimate year graduate student in <a href="https://www.physics.harvard.edu/" target="_blank">Physics</a> at <a href="https://www.harvard.edu/" target="_blank">Harvard</a> working at the intersection of astrostatistics, data science, and the interstellar medium. 
+   
+   <strong>My research focuses on combining astrophysics, statistics, and computer science to study the chemical, spatial, and kinematic variations in the dust that permeates the Milky Way.</strong> This dust is an important driver of the interstellar environment, Galactic foregrounds, and building block in matter assembly (formation of stars and planets). To do this, I use spectroscopic and imaging surveys containing millions and billions of stars, respectively.</p>
 
-   <p>I am passionate about scientific communication, open source software/data availability, and the replication crisis. I am also a Julia enthusiast. Please reach out to me for any questions related to my research and explore the site!</p>
+   <p>I am passionate about scientific communication, open source software/data availability, and the replication crisis. I am also a Julia enthusiast. Please reach out to me if you want to collaborate or have any questions related to my research!</p>
 
    <p>In previous lives, I have also been a chemist (spectroscopy, organometalic, polymers) and condensed matter physicist (InAs/HgCdTe superconductor-semiconductor fabrication and dilution refrigerator measurement) and have deeply loved each of these roles.</p>
 </div>
