@@ -1,7 +1,5 @@
 exclude_path = ["themes"]
 
-accept = ["100..=103", "200..=299", "403"]
-
 user_agent = "curl/7.83. 1"
 
 include_mail = true
