@@ -2,7 +2,7 @@ name: Links
 
 on:
   workflow_run:
-    workflows: ["deploy"]
+    workflows: ["Zola on GitHub Pages"]
     types: [completed] #requested
   repository_dispatch:
   workflow_dispatch:
