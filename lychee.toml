@@ -1,5 +1,12 @@
-exclude_path = ["themes"]
-
 user_agent = "curl/7.83. 1"
+
+# Exclude URLs and mail addresses from checking (supports regex).
+exclude = [ 
+    '*mathstatbites.org*',
+    '*wrps.org*',
+    '*pubs.acs.org*',
+ ]
+
+exclude_path = ["themes"]
 
 include_mail = true
