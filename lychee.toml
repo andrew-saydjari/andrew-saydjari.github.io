@@ -1,1 +1,1 @@
-exclude_path = ["themes/*"]
+exclude_path = ["themes"]
