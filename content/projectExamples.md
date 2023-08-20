@@ -26,7 +26,7 @@ I led the data reduction for the second and final release of the Dark Energy Cam
 
 ### APOGEE Spectral Decomposition
 
-<img src="img/SB3.gif" width="600" alt="SB3 Deblending">
+<img src="/img/SB3.gif" width="600" alt="SB3 Deblending">
 
 <div style="font-size: 18px;">
    I developed and applied a new pipeline to the reduce SDSS-V APOGEE spectra that separates each visit into a linear combination of the most probable contributions from the sky, star, and ISM. This component separation approach to spectral reduction represents a paradigm shift from commiting to single point estimates (of the telluric absorption, sky emission lines, etc.) to marginalzing over our uncertainty about the contribution of each component to the overall spectrum in a joint fit that produces dense posteriors. The goals of this project are to measure the strong diffuse interestellar band near 15273 Å, discover new DIBs, reduce biases in stellar parameter and abundance measurements, and obtain robust parameter measurements of spectroscopic multiples.
@@ -45,7 +45,7 @@ I led the data reduction for the second and final release of the Dark Energy Cam
 
 ### High Angular Resolution 3D Dust Mapping
 <video width="500" controls autoplay loop muted>
-    <source src="img/highlat_8192.mp4" type="video/mp4">
+    <source src="/img/highlat_8192.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
