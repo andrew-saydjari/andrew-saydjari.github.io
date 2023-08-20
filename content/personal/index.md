@@ -26,7 +26,7 @@ Notes from some Splash/Sprout classes I taught at Yale:
 
 Notebooks from "Intro to Python" classes I made for the Latino Initative Program: <a href="https://faun.rc.fas.harvard.edu/saydjari/ExternalShares/LIP/ML/" target="_blank">Introduction to Machine Learning in Astronomy</a> and <a href="https://faun.rc.fas.harvard.edu/saydjari/ExternalShares/LIP/Environments/" target="_blank">Environments, Package Managers, and IDEs</a>
 
-Reviews from TF-ing Solid State I (PHYS 195A): <a href="files/PHYS195A_Reviews.pdf" target="_blank">here</a>.
+Reviews from TF-ing Solid State I (PHYS 195A): [here](/files/PHYS195A_Reviews.pdf).
 
 <h3 class="title is-3" id="bio">
     <a class="has-text-{{ colors::style() }}" href="#/bio">
