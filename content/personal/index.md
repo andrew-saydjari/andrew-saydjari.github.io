@@ -110,3 +110,5 @@ In 2018, I completed my Bachelor of Science with Honors in Mathematics, and dual
 During that time, I realized my favorite days were the ones where I spent all day playing with data, trying to understand how to best model and visualize it, and that is what I do every day now! My thesis "Statistical Models of the Spatial and Chemical Complexity of Dust" (expected 2024) advised by <a href="https://astronomy.fas.harvard.edu/people/douglas-finkbeiner" target="_blank">Douglas Finkbeiner</a> unites all of my passions. I develop mathematical and statistical models for rigorous inference on large spectroscopic (and imaging) surveys in order to study the chemistry of interstellar dust, making interactive visualizations and "hot plots" along the way.
 
 Outside of work, I enjoy biking, fantasy and science fiction audiobooks, and curling up my cat. I am a member of several fandoms and strongly believe that Voyager is the best Star Trek series.
+
+<p>"{{ assets_path }}/sol.jpeg"</p>
