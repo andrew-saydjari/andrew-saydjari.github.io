@@ -26,22 +26,22 @@
                                 {% endfor %}
                             </div>
                         </div>
+                        <div class="columns">
+                            <div class="column is-10 content">
+                                <h4>TL;DR</h4>
+                                <ul class="no-bullets">
+                                    {% for summary in config.extra.summary %}
+                                        <li><a href="{{ summary.link }}" style="font-size: {{ summary.iconsize }}"><i class="{{ summary.icon_pack }} {{ summary.icon }}"></i></a> <span style="font-size: {{ summary.fontsize }}"> {{ summary.text }}</span></li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                        </div>
                     </div>
                     <div class="column is-two-thirds-desktop">
                         <div class="content">
                             {% for page in section.pages %}
                             {% if page.relative_path == "about.md" %}
                             <h1>{{ page.title }}</h1>
-                            <div class="columns">
-                                <div class="column is-10 content">
-                                    <h4>TL;DR</h4>
-                                    <ul class="no-bullets">
-                                        {% for summary in config.extra.summary %}
-                                            <li><a href="{{ summary.link }}" style="font-size: {{ summary.iconsize }}"><i class="{{ summary.icon_pack }} {{ summary.icon }}"></i></a> <span style="font-size: {{ summary.fontsize }}"> {{ summary.text }}</span></li>
-                                        {% endfor %}
-                                    </ul>
-                                </div>
-                            </div>
                             {{ page.content | safe }}
                             {% endif %}
                             {% endfor %}

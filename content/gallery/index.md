@@ -5,7 +5,7 @@ title = "Gallery"
 [extra]
 +++
 
-This is a gallery of some visualizations/plots/images from my work that I am especially proud of. 
+This is a gallery of some visualizations/plots/images from my work that I am proud of or never really had thier chance to shine. 
 
 ## CED 116
 

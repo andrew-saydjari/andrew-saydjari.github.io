@@ -57,8 +57,8 @@
         {% if project.extra.image %}
         {% set assets_path = project.relative_path | split(pat="/") | reverse | slice(start=1) | reverse | join(sep="/") %}
         <div class="card-image">
-            <figure class="image" style="margin: 0px;">
-                {% set img = resize_image(path = assets_path ~ "/" ~ project.extra.image.path, width=512, op='fit_width') %}
+            <figure class="image" syle="height:150px;object-fit:contain">
+                {% set img = resize_image(path = assets_path ~ "/" ~ project.extra.image.path, width=150, height=150, op="fit") %}
                 <img src="{{ img.url | safe }}">
             </figure>
         </div>
