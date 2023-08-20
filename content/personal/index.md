@@ -36,19 +36,19 @@ Reviews from TF-ing Solid State I (PHYS 195A): <a href="files/PHYS195A_Reviews.p
 
 <div class="slideshow-container">
     <div class="mySlides fade">
-    <img src="personal/sol.jpeg" style="height:600px; object-fit:contain; display: block ;margin: 0 auto;">
+    <img src="sol.jpeg" style="height:600px; object-fit:contain; display: block ;margin: 0 auto;">
     <div class="text" style="background-color: rgba(0, 0, 0, 0.5); color: white; padding: 10px;">Sol R. Flare relaxing</div>
     </div>
     <div class="mySlides fade">
-    <img src="personal/AnivHike.jpeg" style="height:600px; object-fit:contain; display: block ;margin: 0 auto;">
+    <img src="AnivHike.jpeg" style="height:600px; object-fit:contain; display: block ;margin: 0 auto;">
     <div class="text" style="background-color: rgba(0, 0, 0, 0.5); color: white; padding: 10px;">Hike with Sophia Sánchez-Maes in Las Cruces, NM</div>
     </div>
     <div class="mySlides fade">
-    <img src="personal/Tigger.jpeg" style="height:600px; object-fit:contain; display: block ;margin: 0 auto;">
+    <img src="Tigger.jpeg" style="height:600px; object-fit:contain; display: block ;margin: 0 auto;">
     <div class="text" style="background-color: rgba(0, 0, 0, 0.5); color: white; padding: 10px;">Tigger Lightning Mischief enjoying Halloween</div>
     </div>
     <div class="mySlides fade">
-    <img src="personal/dilFridge.jpeg" style="height:600px; object-fit:contain; display: block ;margin: 0 auto;">
+    <img src="dilFridge.jpeg" style="height:600px; object-fit:contain; display: block ;margin: 0 auto;">
     <div class="text" style="background-color: rgba(0, 0, 0, 0.5); color: white; padding: 10px;">Mounting a device on the MX400 dilution refrigerator</div>
     </div>
     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
