@@ -11,15 +11,20 @@ transparent = false
 [extra]
 +++
 ### DECaPS2: The Dark Energy Camera Plane Survey DR2
-<div id="aladin-lite-div" style="width:800px;height:200px;"></div>
-<script type="text/javascript" src="https://aladin.cds.unistra.fr/AladinLite/api/v3/latest/aladin.js" charset="utf-8"></script>
-<script type="text/javascript">
-let aladin;
-A.init.then(() => {
-    aladin = A.aladin('#aladin-lite-div', {survey: "P/DECaPS/DR2/color", fov:132, cooFrame:"galactic",target: "303 +0", projection: "AIT"});
-});
-aladin.setBackgroundColor("rgb(0, 0, 0)")
-</script>
+<div class="columns is-desktop" style="object-fit:contain">
+    <div style="position: relative; width: 100%; padding-bottom: 25%;">
+        <div id="aladin-lite-div" frameborder="0" style="position: absolute; width: 100%; height: 100%;"></div>
+        <script type="text/javascript" src="https://aladin.cds.unistra.fr/AladinLite/api/v3/latest/aladin.js" charset="utf-8"></script>
+        <script type="text/javascript">
+        let aladin;
+        A.init.then(() => {
+            aladin = A.aladin('#aladin-lite-div', {survey: "P/DECaPS/DR2/color", fov:132, cooFrame:"galactic",target: "303 +0", projection: "AIT"});
+        });
+        aladin.setBackgroundColor("rgb(0, 0, 0)")
+        </script>
+    </div>
+</div>
+
 <div style="font-size: 18px;">
 I led the data reduction for the second and final release of the Dark Energy Camera Plane Survey (DECaPS2). We provide a catalog of 3.32 billion sources in our survey footprint that covers 6.5% of the sky. We developed new methods well-suited to photometry in the Galactic plane, developed improved measures of photometric depth adapted to crowded-fields, and validate our pipeline extensively with synthetic star tests. For more, see our project <a href="http://decaps.skymaps.info/" target="_blank">website</a>. <strong>Tip:</strong> See how far you can zoom in! (be patient)
 </div>
