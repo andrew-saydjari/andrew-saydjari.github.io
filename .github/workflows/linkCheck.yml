@@ -22,7 +22,7 @@ jobs:
           # to be used in case rate limits are surpassed
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
-      - name: Find Link Checker Issue
+      - name: link-checker-issue
         uses: micalevisk/last-issue-action@v2
         with:
           state: open
