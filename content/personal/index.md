@@ -45,7 +45,7 @@ Reviews from TF-ing Solid State I (PHYS 195A): [here](/files/PHYS195A_Reviews.pd
     </div>
     <div class="mySlides fade">
     <img src="Tigger.jpeg" style="height:600px; object-fit:contain; display: block ;margin: 0 auto;">
-    <div class="text" style="background-color: rgba(0, 0, 0, 0.5); color: white; padding: 10px;">Tigger Lightning Mischief enjoying Halloween</div>
+    <div class="text" style="background-color: rgba(0, 0, 0, 0.5); color: white; padding: 10px;">Tigger Lightning Mischief enjoying Halloween in WI (and me)</div>
     </div>
     <div class="mySlides fade">
     <img src="dilFridge.jpeg" style="height:600px; object-fit:contain; display: block ;margin: 0 auto;">
