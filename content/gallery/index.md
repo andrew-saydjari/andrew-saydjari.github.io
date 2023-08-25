@@ -10,7 +10,6 @@ This is a gallery of some visualizations/plots/images from my work that I am pro
 ## Nebulous Regions in DECaPS2
 
 These are RGB = (zrg - band) images of nebulae in the Dark Energy Camera Plane Survey (DECaPS2) that are examples of the complex images ubiquitous in the Galactic plane that motivated the development of [CloudCovErr.jl](https://github.com/andrew-saydjari/CloudCovErr.jl), an afterburner pipeline to correct the flux and flux uncertainties for stars in the presence of structured backgrounds. Links to higher resolution images are available on the project <a href="http://decaps.skymaps.info/" target="_blank">website</a>.
-
 <div class="slideshow-container">
     <div class="mySlides fade">
     <img src="CED116.jpg" style="height:600px; object-fit:contain; display: block ;margin: 0 auto;">
@@ -74,8 +73,6 @@ These are RGB = (zrg - band) images of nebulae in the Dark Energy Camera Plane S
     timeoutId = setTimeout(showSlides, 5000); // Change image every 5 seconds
     }
 </script>
-
-
 ## UMAP on WISE 12 $\mu$m Dust Map
 
 Unpublished work showing a UMAP representation of images cut from the WISE 12 $\mu$m dust map based on their wavelet scattering transform (WST) coefficients. Hovering over the scatter points visualizes the image on both sides (the UMAP representation and galactic coordinates) of the coupled plot. **Tip**: The image links to an interactive html that is large and can take a few seconds to load.
@@ -87,7 +84,7 @@ Unpublished work showing a UMAP representation of images cut from the WISE 12 $\
 Video of apMADGICS.jl residuals for APOGEE spectra taken at Apache Point Observatory as part of SDSS. Each image is a visit in the detector frame prior to any detector frame artifact component being added to the model. Clear, transient, coherent patterns across both the red and green chips of the detector are apparent. Are they sky line fringing? Internal reflections? I think this sort of data analysis that connects big data stats and detector/experimental physics is fun!
 
 <video width="600" height="600" controls autoplay loop muted>
-    <source src="/FP_2011_2014_middle_APO.mp4" type="video/mp4">
+    <source src="FP_2011_2014_middle_APO.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
