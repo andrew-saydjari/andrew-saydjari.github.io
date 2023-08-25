@@ -81,7 +81,7 @@ Unpublished work showing a UMAP representation of images cut from the WISE 12 $\
 
 ## APOGEE Detector Frame Residuals
 
-Video of apMADGICS.jl residuals for APOGEE spectra taken at Apache Point Observatory as part of SDSS. Each image is a visit in the detector frame prior to any detector frame artifact component being added to the model. Clear, transient, coherent patterns across both the red and green chips of the detector are apparent. Are they sky line fringing? Internal reflections? I think this sort of data analysis that connects big data stats and detector/experimental physics is fun!
+Video of [apMADGICS.jl](https://github.com/andrew-saydjari/apMADGICS.jl) residuals for APOGEE spectra taken at Apache Point Observatory as part of SDSS. Each image is a visit in the detector frame prior to any detector frame artifact component being added to the model. Clear, transient, coherent patterns across both the red and green chips of the detector are apparent. Are they sky line fringing? Internal reflections? I think this sort of data analysis that connects big data stats and detector/experimental physics is fun!
 
 <video width="600" height="600" controls autoplay loop muted>
     <source src="FP_2011_2014_middle_APO.mp4" type="video/mp4">
