@@ -46,6 +46,7 @@ menu_left = [
 menu_right = [
     { name = "Personal", link = "personal" },
     { name = "Gallery", link = "gallery" },
+    { name = "Clips", link = "clips" },
 ]
 
 # Social icons that will appear under your profile box
