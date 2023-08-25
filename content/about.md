@@ -57,7 +57,7 @@ transparent = false
 [extra]
 +++
 <div style="font-size: 18px;">
-   <p>I am an ultimate year graduate student in <a href="https://www.physics.harvard.edu/" target="_blank">Physics</a> at <a href="https://www.harvard.edu/" target="_blank">Harvard</a> working at the intersection of astrostatistics, data science, and the interstellar medium. 
+   <p>I am an final year graduate student in <a href="https://www.physics.harvard.edu/" target="_blank">Physics</a> at <a href="https://www.harvard.edu/" target="_blank">Harvard</a> working at the intersection of astrostatistics, data science, and the interstellar medium. 
    
    <strong>My research focuses on combining astrophysics, statistics, and high-performance coding to study the chemical, spatial, and kinematic variations in the dust that permeates the Milky Way.</strong> This dust is an important building block in matter assembly (formation of stars and planets), driver of the interstellar environment, and Galactic foreground. To do this, I use spectroscopic and imaging surveys containing millions and billions of stars, respectively.</p>
 
