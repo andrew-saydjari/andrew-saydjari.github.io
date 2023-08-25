@@ -19,4 +19,4 @@ The easiest way to get a sense of a researcher is sometimes just to watch them g
 
 {{ youtube(id="6arJ34boVSo ") }}
 
-Beyond this, we received significant press for the DECaPS2, which is a credit to the whole team. A selection of those articles are linked on the press section of my [CV](files/CV_saydjari.pdf). 
+Beyond this, we received significant press for the DECaPS2, which is a credit to the whole team. A selection of those articles are linked on the press section of my [CV](/files/CV_saydjari.pdf). 
