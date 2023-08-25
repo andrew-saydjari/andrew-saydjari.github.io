@@ -1,6 +1,6 @@
 +++
 title = "CloudCovErr.jl"
-description = "A pipeline for debiasing and improving error bar estimates for photometry on top of structured/filamentary background."
+description = "A pipeline for debiasing and improving error bar estimates for photometry on top of structured/filamentary background"
 template = "post.html"
 date = 2021-12-01
 
