@@ -40,6 +40,7 @@ portrait = "/static/img/portrait.png"
 
 # The links you want to put on the left of the navbar
 menu_left = [
+    { name = "Home", link = "" },
 ]
 
 # The links you want to put on the right of the navbar
@@ -71,12 +72,12 @@ interests = [
     { label = "Interstellar Dust"},
     { label = "Blind Source Separation"},
     { label = "Low Rank Methods"},
-    { label = "Julia", link = "https://julialang.org/" },
+    { label = "Julia Programming Language", link = "https://julialang.org/" },
 ]
 
 # Your diplomas
 education = [
-{course = "PhD in Physics", institution = "Harvard", year = 2024},
+{course = "PhD in Physics", institution = "Harvard (expected)", year = "2024"},
 {course = "MSc/BSc in Chemistry", institution = "Yale", year = 2018},
 {course = "BSc in Math", institution = "Yale", year = 2018},
 ]
