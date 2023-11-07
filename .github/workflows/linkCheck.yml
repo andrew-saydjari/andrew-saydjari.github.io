@@ -35,6 +35,6 @@ jobs:
         with:
           title: Link Checker Report
           content-filepath: ./lychee/out.md
-          issue-number: ${{ steps.last-issue.outputs.issue_number }}
+          issue-number: ${{ steps.last-issue.outputs.issue-number }}
           token: ${{secrets.GITHUB_TOKEN}}
           labels: link-checker, automated issue
