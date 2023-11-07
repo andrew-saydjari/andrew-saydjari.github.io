@@ -24,7 +24,7 @@ jobs:
 
       - name: link-checker-issue
         id: last-issue
-        uses: micalevisk/last-issue-action@813cfdc3faa1410d67a02a49b1af1683211815ad # for v2.2.0
+        uses: micalevisk/last-issue-action@2.2.0 # for v2.2.0
         with:
           state: open
           labels: |
