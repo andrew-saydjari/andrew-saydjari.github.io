@@ -27,19 +27,17 @@ jobs:
         uses: micalevisk/last-issue-action@v2.1.0
         with:
           state: open
-          labels: |
-            link-checker
+          labels: link-checker, automated issue
 
       - name: Create Issue From File Found Past
         if: ${{ steps.last-issue.outputs.has-found == 'true' }} #env.lychee_exit_code != 0 &&
         uses: peter-evans/create-issue-from-file@v4
         with:
           title: Link Checker Report
-          issue-number: "${{ steps.last-issue.outputs.issue_number }}"
           content-filepath: ./lychee/out.md
+          issue-number: "${{ steps.last-issue.outputs.issue_number }}"
           token: ${{secrets.GITHUB_TOKEN}}
-          labels: |
-            link-checker
+          labels: link-checker, automated issue
 
       - name: Create Issue From File No Past
         if: ${{ steps.last-issue.outputs.has-found == 'false' }} #env.lychee_exit_code != 0 &&
@@ -48,5 +46,4 @@ jobs:
           title: Link Checker Report
           content-filepath: ./lychee/out.md
           token: ${{secrets.GITHUB_TOKEN}}
-          labels: |
-            link-checker
+          labels: link-checker, automated issue
