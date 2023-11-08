@@ -30,7 +30,7 @@ jobs:
           labels: link-checker, automated issue
 
       - name: Create Issue From File
-        if: ${{ steps.last-issue.outputs.has-found == 'false' }} #env.lychee_exit_code != 0 &&
+        if: ${{ env.lychee_exit_code != 0 && steps.last-issue.outputs.has-found == 'false' }}
         uses: peter-evans/create-issue-from-file@v4
         with:
           title: Link Checker Report
@@ -40,7 +40,7 @@ jobs:
           labels: link-checker, automated issue
 
       - name: Comment on Found Issue
-        if: ${{ steps.last-issue.outputs.has-found == 'true' }} #env.lychee_exit_code != 0 &&
+        if: ${{ env.lychee_exit_code != 0 && steps.last-issue.outputs.has-found == 'true' }}
         uses: peter-evans/create-or-update-comment@v3.1.0
         with:
           body-path: ./lychee/out.md
