@@ -29,8 +29,8 @@ jobs:
           state: open
           labels: link-checker, automated issue
 
-      - name: Create Issue From File Found Past
-        if: ${{ steps.last-issue.outputs.has-found == 'true' }} #env.lychee_exit_code != 0 &&
+      - name: Create Issue From File
+        if: ${{ steps.last-issue.outputs.has-found == 'false' }} #env.lychee_exit_code != 0 &&
         uses: peter-evans/create-issue-from-file@v4
         with:
           title: Link Checker Report
@@ -38,3 +38,11 @@ jobs:
           issue-number: ${{ steps.last-issue.outputs.issue-number }}
           token: ${{secrets.GITHUB_TOKEN}}
           labels: link-checker, automated issue
+
+      - name: Comment on Found Issue
+        if: ${{ steps.last-issue.outputs.has-found == 'true' }} #env.lychee_exit_code != 0 &&
+        uses: peter-evans/create-or-update-comment@v3.1.0
+        with:
+          body-path: ./lychee/out.md
+          issue-number: ${{ steps.last-issue.outputs.issue-number }}
+          token: ${{secrets.GITHUB_TOKEN}}
