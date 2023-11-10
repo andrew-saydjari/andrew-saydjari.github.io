@@ -11,7 +11,7 @@ title = "Personal"
     </a>
 </h3>
 
-For me, one of the main motivations for doing science is my own curiosity, to answer the neverending stream of questions I have about the world around us. I believe it is part of our responsibility to share that knowledge and answer the public's questions as well, working hard to explain without condescension or oversimplificaiton. I find doing so energizing, when you can engage with other people and get them excited about your own obsessions, and centering, reminding me what the big questions are that I am after. To that end, I dabble in popular science writing, some examples of which are on <a href="https://mathstatbites.org/author/andrew-saydjari/" target="_blank">MathStatsBites</a>:  <a href="https://mathstatbites.org/pulling-patterns-out-of-data-with-a-graph/" target="_blank">TheSequencer</a>, <a href="https://mathstatbites.org/bridging-the-gap-between-models-and-data/" target="_blank">CycleStarNet</a>, <a href="https://mathstatbites.org/mathstatbites-at-scma8-astro-image-processing-is-bliss/" target="_blank">SCMA8</a>, <a href="https://docs.google.com/document/d/17_a9zdjH-vvjkuBv5lfE0vjq7FaCWL-PnA5Soy9L-LU/edit" target="_blank">NestedSampling</a>.
+For me, one of the main motivations for doing science is my own curiosity, to answer the neverending stream of questions I have about the world around us. I believe it is part of our responsibility to share that knowledge and answer the public's questions as well, working hard to explain without condescension or oversimplificaiton. I find doing so energizing, when you can engage with other people and get them excited about your own obsessions, and centering, reminding me what the big questions are that I am after. To that end, I dabble in popular science writing, some examples of which are on <a href="https://mathstatbites.org/author/andrew-saydjari/" target="_blank">MathStatsBites</a>:  <a href="https://mathstatbites.org/pulling-patterns-out-of-data-with-a-graph/" target="_blank">TheSequencer</a>, <a href="https://mathstatbites.org/bridging-the-gap-between-models-and-data/" target="_blank">CycleStarNet</a>, <a href="https://mathstatbites.org/mathstatbites-at-scma8-astro-image-processing-is-bliss/" target="_blank">SCMA8</a>, <a href="https://mathstatbites.org/combining-nested-sampling-and-normalizing-flows/" target="_blank">NestedSampling</a>.
 
 <h3 class="title is-3" id="Teaching">
     <a class="has-text-{{ colors::style() }}" href="#/Teaching">
@@ -27,6 +27,14 @@ Notes from some Splash/Sprout classes I taught at Yale:
 Notebooks from "Intro to Python" classes I made for the Latino Initative Program: <a href="https://faun.rc.fas.harvard.edu/saydjari/ExternalShares/LIP/ML/" target="_blank">Introduction to Machine Learning in Astronomy</a> and <a href="https://faun.rc.fas.harvard.edu/saydjari/ExternalShares/LIP/Environments/" target="_blank">Environments, Package Managers, and IDEs</a>
 
 Reviews from TF-ing Solid State I (PHYS 195A): [here](/files/PHYS195A_Reviews.pdf).
+
+<h3 class="title is-3" id="edi">
+    <a class="has-text-{{ colors::style() }}" href="#/EDI">
+        Equity, Diversity, and Inclusion
+    </a>
+</h3>
+
+To succeed in the scientific endeavor, we must engage, empower, and retain those long-excluded from the professional astronomy community. I acknowledge the past explicit and implicit exclusion of marginalized individuals and I am committed to enabling equitable access to research and resources. Further, I am committed to continually educating myself in matters of equity and inclusion and to use my privilege and power to uplift and empower. Please see my <a href="files/saydjari_dei_intro.pdf" target="_blank">EDI philosphy statement</a> for more.
 
 <h3 class="title is-3" id="bio">
     <a class="has-text-{{ colors::style() }}" href="#/bio">
