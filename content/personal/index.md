@@ -44,6 +44,10 @@ To succeed in the scientific endeavor, we must engage, empower, and retain those
 
 <div class="slideshow-container">
     <div class="mySlides fade">
+    <img src="AndrewBlanco.jpeg" style="height:600px; object-fit:contain; display: block ;margin: 0 auto;">
+    <div class="text" style="background-color: rgba(0, 0, 0, 0.5); color: white; padding: 10px;">Observing with my favorite instrument, DECam</div>
+    </div>
+    <div class="mySlides fade">
     <img src="sol.jpeg" style="height:600px; object-fit:contain; display: block ;margin: 0 auto;">
     <div class="text" style="background-color: rgba(0, 0, 0, 0.5); color: white; padding: 10px;">Sol R. Flare relaxing</div>
     </div>
@@ -52,12 +56,12 @@ To succeed in the scientific endeavor, we must engage, empower, and retain those
     <div class="text" style="background-color: rgba(0, 0, 0, 0.5); color: white; padding: 10px;">Hike with Sophia Sánchez-Maes in Las Cruces, NM</div>
     </div>
     <div class="mySlides fade">
-    <img src="Tigger.jpeg" style="height:600px; object-fit:contain; display: block ;margin: 0 auto;">
-    <div class="text" style="background-color: rgba(0, 0, 0, 0.5); color: white; padding: 10px;">Tigger Lightning Mischief enjoying Halloween in WI (and me)</div>
-    </div>
-    <div class="mySlides fade">
     <img src="dilFridge.jpeg" style="height:600px; object-fit:contain; display: block ;margin: 0 auto;">
     <div class="text" style="background-color: rgba(0, 0, 0, 0.5); color: white; padding: 10px;">Mounting a device on the MX400 dilution refrigerator</div>
+    </div>
+    <div class="mySlides fade">
+    <img src="Tigger.jpeg" style="height:600px; object-fit:contain; display: block ;margin: 0 auto;">
+    <div class="text" style="background-color: rgba(0, 0, 0, 0.5); color: white; padding: 10px;">Tigger Lightning Mischief enjoying Halloween in WI (and me)</div>
     </div>
     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
     <a class="next" onclick="plusSlides(1)">&#10095;</a>
