@@ -34,7 +34,7 @@ Reviews from TF-ing Solid State I (PHYS 195A): [here](/files/PHYS195A_Reviews.pd
     </a>
 </h3>
 
-To succeed in the scientific endeavor, we must engage, empower, and retain those long-excluded from the professional astronomy community. I acknowledge the past explicit and implicit exclusion of marginalized individuals and I am committed to enabling equitable access to research and resources. Further, I am committed to continually educating myself in matters of equity and inclusion and to use my privilege and power to uplift and empower. Please see my <a href="files/saydjari_dei_intro.pdf" target="_blank">EDI philosphy statement</a> for more.
+To succeed in the scientific endeavor, we must engage, empower, and retain those long-excluded from the professional astronomy community. I acknowledge the past explicit and implicit exclusion of marginalized individuals and I am committed to enabling equitable access to research and resources. Further, I am committed to continually educating myself in matters of equity and inclusion and to use my privilege and power to uplift and empower. Please see my <a href="/files/saydjari_dei_intro.pdf" target="_blank">EDI philosphy statement</a> for more.
 
 <h3 class="title is-3" id="bio">
     <a class="has-text-{{ colors::style() }}" href="#/bio">
