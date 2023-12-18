@@ -17,7 +17,7 @@ jobs:
 
       - name: Link Checker
         id: lychee
-        uses: lycheeverse/lychee-action@2ac9f030ccdea0033e2510a23a67da2a2da98492 # for v1.8.0
+        uses: lycheeverse/lychee-action@ef8c8f32c278e9eed290c6e6c96748f16b6cd335 # for v1.8.0
         env:
           # to be used in case rate limits are surpassed
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
