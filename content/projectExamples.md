@@ -14,7 +14,7 @@ transparent = false
 <div class="columns is-desktop" style="object-fit:contain">
     <div style="position: relative; width: 100%; padding-bottom: 25%;">
         <div id="aladin-lite-div" frameborder="0" style="position: absolute; width: 100%; height: 100%;"></div>
-        <script async type="text/javascript" src="https://aladin.cds.unistra.fr/AladinLite/api/v3/latest/aladin.js" charset="utf-8"></script>
+        <script async type="text/javascript" src="https://aladin.cds.unistra.fr/AladinLite/api/v3/beta/aladin.js" charset="utf-8"></script>
         <script type="text/javascript">
         let aladin;
         A.init.then(() => {
