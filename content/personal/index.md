@@ -6,6 +6,14 @@ title = "Personal"
 +++
 
 <h3 class="title is-3" id="scicom">
+    <a class="has-text-{{ colors::style() }}" href="#/surname">
+        Surname
+    </a>
+</h3>
+
+My last name "Saydjari" is ethnically Syrian and is a transliteration from Arabic of a name indicating that my family originates from <a href="https://en.wikipedia.org/wiki/Shaizar" target="_blank"> Shayzar</a>. I pronounce our spelling as say-JUR-ee.
+
+<h3 class="title is-3" id="scicom">
     <a class="has-text-{{ colors::style() }}" href="#/scicom">
         Science Communication
     </a>
