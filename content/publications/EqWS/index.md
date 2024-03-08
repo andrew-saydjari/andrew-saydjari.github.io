@@ -11,7 +11,7 @@ abstract = "Wavelet scattering networks, which are convolutional neural networks
 authors = ["Andrew K Saydjari, Douglas P Finkbeiner"]
 
 links = [
-    { name = "ADS", link = "https://ui.adsabs.harvard.edu/abs/2021arXiv210411244S/abstract" },
+    { name = "ADS", link = "https://ui.adsabs.harvard.edu/abs/2022ITPAM..45.1716S/abstract" },
     { name = "Zenodo", link = "https://zenodo.org/record/4712316" },
     { name = "Code", link = "https://github.com/andrew-saydjari/EqWS.jl" },
 ]
