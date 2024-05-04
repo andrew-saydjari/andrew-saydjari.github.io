@@ -5,7 +5,11 @@ title = "Clips"
 [extra]
 +++
 
-The easiest way to get a sense of a researcher is sometimes just to watch them give a talk about their work. Here are some of mine, including an accessible interview.
+The easiest way to get a sense of a researcher is sometimes just to watch them give a talk about their work. Here are some of mine, including my dissertation defense (which provides a nice overview of my work) and an accessible interview.
+
+## Dissertation Defense @ Harvard
+
+{{ youtube(id="tIy2dXpsEi4?&amp;start=223") }}
 
 ## CloudCovErr @ ITC Lunch, Harvard
 
