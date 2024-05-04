@@ -26,10 +26,10 @@ external_links_target_blank = true
 author = "Andrew Saydjari"
 
 # Role of the author
-role = "Graduate Student"
+role = "Postdoctoral Researcher"
 
 # Organizations of the author
-organizations = [ { name = "Harvard" } ]
+organizations = [ { name = "Center for Astrophysics | Harvard & Smithsonian" } ]
 
 # Whether the navbar should be screen wide or page wide
 wide_navbar = false
@@ -77,7 +77,7 @@ interests = [
 
 # Your diplomas
 education = [
-{course = "PhD in Physics", institution = "Harvard (expected)", year = "2024"},
+{course = "PhD in Physics", institution = "Harvard", year = "2024"},
 {course = "MSc/BSc in Chemistry", institution = "Yale", year = 2018},
 {course = "BSc in Math", institution = "Yale", year = 2018},
 ]

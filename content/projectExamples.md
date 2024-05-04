@@ -49,15 +49,18 @@ I led the data reduction for the second and final release of the Dark Energy Cam
 </div>
 
 ### High Angular Resolution 3D Dust Mapping
-<video width="500" controls autoplay loop muted>
-    <source src="/img/highlat_8192.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+
+<img src="/img/highResCompare.gif" width="500" alt="DECaPS versus Bayestar19">
 
 <br>
 <div style="font-size: 18px;">
-   I extended a previous dustmaping methodology using <a href="https://github.com/gregreen/bayestar" target="_blank">bayestar</a> and am combinining that with deep, high-quality NIR photometry from DECaPS2 (see above) to achieve an extraordinarily high angular resolution 3D dust map, 5x the resolution of the 2D Planck dust map! Through this careful statistical inference, we expect to see ~ pc scale structures several kpc away in nearby spiral arms of the Galaxy. The video above shows only a 2° x 2° region in the footprint of the map, which will cover the entire southern Galactic plane!
+   I extended a previous dustmaping methodology using <a href="https://github.com/gregreen/bayestar" target="_blank">bayestar</a> and am combinining that with deep, high-quality NIR photometry from DECaPS2 (see above) to achieve an extraordinarily high angular resolution 3D dust map, 5x the resolution of the 2D Planck dust map! Through this careful statistical inference, we expect to see ~ pc scale structures several kpc away in nearby spiral arms of the Galaxy. The GIF above shows the improvement in angular resolution acheived by our 3D dust map compared to a previous version (Bayestar19) and the video below shows only a 4° x 4° region in the footprint of the map, which will cover the entire southern Galactic plane!
 </div>
+
+<video width="500" controls autoplay loop muted>
+    <source src="/img/reversed_med_res.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 
     
