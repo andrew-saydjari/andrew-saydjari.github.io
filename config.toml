@@ -13,11 +13,11 @@ compile_sass = true
 
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = false
+# highlight_code = false
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
-external_links_target_blank = true
+# external_links_target_blank = true
 
 [extra]
 # Put all your custom variables here
@@ -26,10 +26,10 @@ external_links_target_blank = true
 author = "Andrew Saydjari"
 
 # Role of the author
-role = "Postdoctoral Researcher"
+role = "NASA Hubble Postdoctoral Fellow"
 
 # Organizations of the author
-organizations = [ { name = "Center for Astrophysics | Harvard & Smithsonian" } ]
+organizations = [ { name = "Princeton" } ]
 
 # Whether the navbar should be screen wide or page wide
 wide_navbar = false

@@ -57,7 +57,7 @@ transparent = false
 [extra]
 +++
 <div style="font-size: 18px;">
-   <p>I will be starting in the fall as a <a href="https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program/2024-nhfp-fellows#section-ff92d8dd-2af7-410e-8be0-c5501f8227f1" target="_blank">NASA Hubble Fellow</a> in the <a href="https://web.astro.princeton.edu/" target="_blank">Department of Astrophysical Sciences</a> at <a href="https://www.princeton.edu/" target="_blank">Princeton</a>.
+   <p>I am a <a href="https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program/2024-nhfp-fellows#section-ff92d8dd-2af7-410e-8be0-c5501f8227f1" target="_blank">NASA Hubble Fellow</a> in the <a href="https://web.astro.princeton.edu/" target="_blank">Department of Astrophysical Sciences</a> at <a href="https://www.princeton.edu/" target="_blank">Princeton</a>.
    
    <strong>My research focuses on combining astrophysics, statistics, and high-performance coding to study the chemical, spatial, and kinematic variations in the dust that permeates the Milky Way.</strong> This dust is an important building block in matter assembly (formation of stars and planets), driver of the interstellar environment, and Galactic foreground. To do this, I use spectroscopic and imaging surveys containing millions and billions of stars, respectively.</p>
 
