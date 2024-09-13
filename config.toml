@@ -48,6 +48,7 @@ menu_right = [
     { name = "Personal", link = "personal" },
     { name = "Gallery", link = "gallery" },
     { name = "Clips", link = "clips" },
+    { name = "Schedule", link = "gcal" },
 ]
 
 # Social icons that will appear under your profile box
