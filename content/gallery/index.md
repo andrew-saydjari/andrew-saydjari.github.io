@@ -5,7 +5,7 @@ title = "Gallery"
 [extra]
 +++
 
-This is a gallery of some visualizations/plots/images from my work that I am proud of or never really had thier chance to shine. 
+This is a gallery of some visualizations/plots/images from my work that I am proud of or never really had their chance to shine. 
 
 ## Nebulous Regions in DECaPS2
 
