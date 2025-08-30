@@ -17,7 +17,7 @@ links = [
     { name = "Code", link = "https://github.com/schlafly/crowdsource" },
 ]
 
-publication = "ApJ"
+publication = "ApJS"
 year = 2023
 
 image = { path = "CED116.jpg", style="banner", caption = "HII region CED116 near the Running Chicken nebula. A beautiful and complex field that is a tiny fraction of the survey." }
