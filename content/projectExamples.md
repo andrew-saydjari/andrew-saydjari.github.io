@@ -88,7 +88,7 @@ I led the data reduction for the second and final release of the Dark Energy Cam
         <img src="/img/highResCompare.gif" width="100%" alt="DECaPS versus Bayestar19" style="max-width: 500px;">
     </div>
     <div class="column" style="text-align: center;">
-        <img src="/img/spire.png" width="100%" alt="Herschel/SPIRE" style="max-width: 500px;">
+        <img src="/img/SPIRE.png" width="100%" alt="Herschel/SPIRE" style="max-width: 500px;">
     </div>
     <div class="column" style="text-align: center;">
         <video width="100%" controls autoplay loop muted style="max-width: 500px;">
