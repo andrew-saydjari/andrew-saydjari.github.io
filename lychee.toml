@@ -7,7 +7,9 @@ exclude = [
     '.*pubs\.acs\.org.*',
     '.*linkedin\.com.*',
     '.*nrl.navy.mil.*',
-    '.*astro\.princeton\.edu.*'
+    '.*astro\.princeton\.edu.*',
+    '.*physics.harvard.edu.*',
+    '.*astronomy.fas.harvard.edu.*'
  ]
 
 exclude_path = ["themes"]
